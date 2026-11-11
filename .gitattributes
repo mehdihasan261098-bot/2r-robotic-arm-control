@@ -1,0 +1,8 @@
+# Normalise text files; never touch binaries
+* text=auto
+*.md   text eol=lf
+*.py   text eol=lf
+*.txt  text eol=lf
+*.png  binary
+*.gif  binary
+*.jpg  binary

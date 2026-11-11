@@ -1,0 +1,9 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+# OS / editor
+Thumbs.db
+desktop.ini
+.DS_Store
